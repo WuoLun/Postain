@@ -1,2 +1,2 @@
 # Postain
-Postain是一个发信模板系统，基于phpmailer
+服务上线后，仓库内容自动补全
